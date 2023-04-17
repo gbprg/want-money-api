@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Vender kit do PC",
+      "type": "income",
+      "category": "Venda",
+      "price": 2000,
+      "createdAt": "2023-03-22T14:28:04.912Z"
+    },
+    {
+      "id": 2,
+      "description": "Churrasco com o gordão",
+      "type": "outcome",
+      "category": "alimentação",
+      "price": 250,
+      "createdAt": "2023-04-10T17:30:45.750Z"
+    },
+    {
+      "description": "coca cola",
+      "price": 8,
+      "category": "bebida",
+      "type": "outcome",
+      "createdAt": "2023-04-14T20:30:43.370Z",
+      "id": 3
+    },
+    {
+      "description": "cadeira gamer",
+      "price": 599,
+      "category": "investimentos",
+      "type": "outcome",
+      "createdAt": "2023-04-14T20:31:44.801Z",
+      "id": 4
+    }
+  ]
+}
