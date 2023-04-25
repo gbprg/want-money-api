@@ -5,7 +5,7 @@ import { CloseButton, Content, Overlay, TransactionType, TransactionTypeButton }
 import { ArrowCircleDown, ArrowCircleUp, X } from 'phosphor-react';
 import { Controller, useForm } from 'react-hook-form';
 import { zodResolver } from '@hookform/resolvers/zod';
-import { useContext } from 'react';
+import { useContext} from 'react';
 import { TransactionsContext } from '../../contexts/TransactionsContext';
 
 const newTransactionFormSchema = z.object({
@@ -86,7 +86,6 @@ export default function NewTransactionModal() {
               )
             }}
           />
-
           <button type="submit">
             Cadastrar
           </button>

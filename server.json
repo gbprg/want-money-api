@@ -31,6 +31,46 @@
       "type": "outcome",
       "createdAt": "2023-04-14T20:31:44.801Z",
       "id": 4
+    },
+    {
+      "description": "bbbb",
+      "price": 500,
+      "category": "bebida",
+      "type": "outcome",
+      "createdAt": "2023-04-24T13:47:28.379Z",
+      "id": 5
+    },
+    {
+      "description": "venda da minha chuteira",
+      "price": 200,
+      "category": "calçado ",
+      "type": "income",
+      "createdAt": "2023-04-24T13:49:52.901Z",
+      "id": 6
+    },
+    {
+      "description": "coca cola",
+      "price": 5,
+      "category": "bebida",
+      "type": "outcome",
+      "createdAt": "2023-04-24T14:17:42.010Z",
+      "id": 7
+    },
+    {
+      "description": "emprestimo",
+      "price": 10,
+      "category": "dinheiro",
+      "type": "outcome",
+      "createdAt": "2023-04-24T14:23:34.684Z",
+      "id": 8
+    },
+    {
+      "description": "aaaaa",
+      "price": 5,
+      "category": "dasdadada",
+      "type": "income",
+      "createdAt": "2023-04-24T14:52:14.865Z",
+      "id": 9
     }
   ]
 }
